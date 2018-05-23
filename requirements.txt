@@ -1,4 +1,8 @@
 numpy
+sympy
+slycot
+control
+plotly
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
