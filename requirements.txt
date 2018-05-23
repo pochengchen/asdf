@@ -1,6 +1,5 @@
 numpy
 sympy
-slycot
 control
 plotly
 matplotlib
